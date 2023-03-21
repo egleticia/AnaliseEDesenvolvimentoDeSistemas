@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Recursividade-Tabuada/1.0.0": {
+        "runtime": {
+          "Recursividade-Tabuada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recursividade-Tabuada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
